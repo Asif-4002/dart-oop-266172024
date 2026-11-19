@@ -41,3 +41,13 @@ Therefore, the second output is 5.
 1
 5
 ```
+### Actual Output
+
+```text
+1
+5
+```
+
+### Was My Prediction Correct?
+
+Yes. My prediction was correct. The actual output matches my predicted output.
